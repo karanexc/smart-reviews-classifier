@@ -12,5 +12,5 @@ if st.button("Predict"):
     if review:
         vect = vectorizer.transform([review])
         pred = model.predict(vect)[0]
-        label = "Positive" if pred == 0 else "Negative"
+        label = "Positive" if pred == 1 else "Negative"
         st.success(f"Prediction: {label}")
