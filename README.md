@@ -68,7 +68,7 @@ This end-to-end ML project involves:
    streamlit run streamlit_app.py
    ```
 
-**🧠 Model Inference Sample**
+## 🧠 Model Inference Sample
 
 ###  Review Prediction
 
@@ -79,6 +79,7 @@ This end-to-end ML project involves:
 | "It was okay, nothing special."                 | Negative (0)   |
 
 
-###  Conclusion
-**This project demonstrates an end-to-end ML pipeline from data preprocessing to deployment.**  
-**It also emphasizes the importance of model evaluation and hyperparameter tuning in building a reliable sentiment analysis system.**
+## ⭐ Conclusion
+
+- This project demonstrates an end-to-end ML pipeline from data preprocessing to deployment.
+- It also emphasizes the importance of model evaluation and hyperparameter tuning in building a reliable sentiment analysis system.
