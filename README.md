@@ -51,7 +51,7 @@ This end-to-end ML project involves:
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/smart-reviews-classifier.git
+   git clone https://github.com/karanexc/smart-reviews-classifier.git
    cd smart-reviews-classifier
    ```
 
