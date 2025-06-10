@@ -1,6 +1,3 @@
-# smart-reviews-classifier
-Sentiment classification on Amazon reviews using ML &amp; MLOps
-
 # 🛍️ Amazon Product Review Classifier
 
 A machine learning project that classifies Amazon product reviews into **positive** or **negative** sentiment using NLP techniques and various ML algorithms.
