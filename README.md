@@ -72,10 +72,11 @@ This end-to-end ML project involves:
 
 ###  Review Prediction
 
-
-"Absolutely loved it! Highly recommend." → Positive (1)
-"Terrible product, complete waste of money." → Negative (0)
-"It was okay, nothing special." → Negative (0)
+| Input                    | Sentiment |
+|-------------------------|----------|
+| "Absolutely loved it! Highly recommend."     | Positive (1)   |
+| "Terrible product, complete waste of money."  | Negative (0)   |
+| "It was okay, nothing special."                 | Negative (0)   |
 
 
 ###  Conclusion
