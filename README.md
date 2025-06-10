@@ -69,14 +69,15 @@ This end-to-end ML project involves:
    ```
 
 **🧠 Model Inference Sample**
-### Review	Prediction 
-```
-"Absolutely loved it! Highly recommend."	   Positive (1)
-"Terrible product, complete waste of money."	Negative (0)
-"It was okay, nothing special."	            Negative (0)
-```
 
-**🏁 Conclusion**
-## This project demonstrates an end-to-end ML pipeline from data preprocessing to deployment. It also emphasizes the importance of model evaluation and hyperparameter tuning in building a reliable sentiment analysis system.
+###  Review Prediction
 
 
+"Absolutely loved it! Highly recommend." → Positive (1)
+"Terrible product, complete waste of money." → Negative (0)
+"It was okay, nothing special." → Negative (0)
+
+
+###  Conclusion
+**This project demonstrates an end-to-end ML pipeline from data preprocessing to deployment.**  
+**It also emphasizes the importance of model evaluation and hyperparameter tuning in building a reliable sentiment analysis system.**
